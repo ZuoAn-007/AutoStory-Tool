@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pyautogui
+pydirectinput
+keyboard
+mss
+pygetwindow
+Pillow
+pyinstaller
